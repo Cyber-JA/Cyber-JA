@@ -1,6 +1,6 @@
 <body>
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone,%20Giuseppe%20here!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+    <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone,%20Giuseppe%20here!🕹️&animation=fadeIn&type=waving&color=gradient&height=100&fontSize=40"/>
   </p>
   <p align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGkzNTFyb2ZvNnFycDl3b3Y1eWxkeWVsNDBwOHI2ZG1yMjB5ZmkxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MtJwM5N4fuMgw/giphy.webp"/>
