@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+everyone!;I'm+Giuseppe,+an+offensive+security+enthusiast." width="70%" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+everyone!;I'm+Giuseppe,+an+offensive+security+enthusiast." width="70%" />
+  </p>
   <p align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGkzNTFyb2ZvNnFycDl3b3Y1eWxkeWVsNDBwOHI2ZG1yMjB5ZmkxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MtJwM5N4fuMgw/giphy.webp"/>
   </p>
