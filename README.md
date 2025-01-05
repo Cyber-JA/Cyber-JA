@@ -21,10 +21,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </p>
   </div>
-  <div align="center">
+  <div align="left">
     <h3> Certifications: <h3>
      <p>
-       <img src="https://github.com/Cyber-JA/Cyber-JA/blob/main/w5192j4c_1734362064262_badge.png" alt="ejptv2" width="40" height="40" />
+       <img src="https://github.com/Cyber-JA/Cyber-JA/blob/main/w5192j4c_1734362064262_badge.png" alt="ejptv2" width="80" height="80" />
      </p>
   </div>
 </body>
