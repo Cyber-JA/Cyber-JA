@@ -14,6 +14,10 @@
     aka: Cyber-JA
     favourite_anime_character: Minato Namikaze <!-- Clearly! -->
     current_job: Cybersecurity Engineer
+    education:
+      [
+        cc
+      ]
   
   <div align="left">
     <h2>Connect with me on Linkedin!</h2>
