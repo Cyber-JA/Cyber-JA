@@ -2,9 +2,7 @@
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone,%20Giuseppe%20here!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
   </p>
-  <p align="center">
-    <img src="https://giphy.com/gifs/naruto-shippuden-rasengan-obito-uchiha-MtJwM5N4fuMgw"></img>
-  </p>
+  ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
     <div align="left">
     <h3>Connect with me on Linkedin!</h3>
     <p>
