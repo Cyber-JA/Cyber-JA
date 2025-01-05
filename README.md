@@ -9,7 +9,7 @@
   <div align="left">
     <h2>A little about me 🔭</h2>
   </div>
-    
+    ## Section 2
   ```yaml
   <!-- not gonna disclose too much, cyber paranoic guy here-->
   name: Giuseppe
