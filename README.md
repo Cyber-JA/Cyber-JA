@@ -9,10 +9,11 @@
   <div align="left">
     <h2>A little about me 🔭</h2>
   </div>
-  
-    ```yaml
-    tt
-    ```
+
+    name: Giuseppe
+    aka: Cyber-JA
+    favourite_anime_character: Minato Namikaze <!-- Clearly! -->
+    current_job: Cybersecurity Engineer
   
   <div align="left">
     <h2>Connect with me on Linkedin!</h2>
