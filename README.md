@@ -9,11 +9,11 @@
     <h2>I'm a cybersecurity Engineer, interested in several offensive security topics.</h2>
   </div>
     <div align="left">
-    <h3>Connect with me on Linkedin!</h3>
+    <h2>Connect with me on Linkedin!</h2>
     <p>
       <a href="https://linkedin.com/in/giuseppe-caruso-92177a267" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberja" height="40" width="40" /></a>
     </p>
-    <h3>Some tools, platforms and languages I used and learned</h3>
+    <h2>Some tools, platforms and languages I used and learned</h2>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40" />
@@ -26,7 +26,7 @@
     </p>
   </div>
   <div align="left">
-    <h3> Certifications: <h3>
+    <h2> Certifications <h2>
      <p>
        <img src="https://github.com/Cyber-JA/Cyber-JA/blob/main/w5192j4c_1734362064262_badge.png" alt="ejptv2" width="80" height="80" />
      </p>
