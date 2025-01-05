@@ -10,11 +10,12 @@
   </div>
   
     ```yaml
-    name:
-    surname:
+    name: Giuseppe
+    surname: Caruso
+    aka: Cyber-JA
+    favourite anime character: Minato Namikaze <!-- clearly! -->
     ```
-    
-    <div align="left">
+  <div align="left">
     <h2>Connect with me on Linkedin!</h2>
     <p>
       <a href="https://linkedin.com/in/giuseppe-caruso-92177a267" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberja" height="40" width="40" /></a>
