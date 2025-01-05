@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+everyone!I'm+Giuseppe,+cybersecurity+enthusiast+interested+in+the+offensive+security+branch+and+this+is+my+Github+profile.+Enjoy!" width="70%" />
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone,%20Giuseppe%20here!🕹️&animation=fadeIn&theme=dark&color=random&height=100&fontSize=30"/>
   </p>
