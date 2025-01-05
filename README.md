@@ -1,14 +1,13 @@
 <body>
-  <div align="center">
-    <h1>𝙷𝚒 👋, Giuseppe here</h1>
-    <h3>𝙰 Cybersecurity engineer from 🇮🇹 interested in various offensive security topics.<h3>
-  </div>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
   <div align="left">
     <h3>Connect with me on Linkedin!</h3>
     <p>
       <a href="https://linkedin.com/in/giuseppe-caruso-92177a267" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberja" height="40" width="40" /></a>
     </p>
-    <h3>Proficiency with the following languages and platforms:</h3>
+    <h3>Some tools, platforms and languages I used and learned</h3>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40" />
