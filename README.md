@@ -16,7 +16,16 @@
     current_job: Cybersecurity Engineer
     education:
       [
-        cc
+        "bachelor's degree in Computer Engineering",
+        "master's degree in Cybersecurity",
+        "self-thought penetration tester
+      ]
+      
+    education:
+      [
+        "bachelor's degree in Computer Engineering",
+        "master's degree in Cybersecurity",
+        "self-thought penetration tester
       ]
   
   <div align="left">
