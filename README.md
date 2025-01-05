@@ -24,7 +24,7 @@
   <div align="center">
     <h3> Certifications: <h3>
      <p>
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+       <img src="https://github.com/Cyber-JA/Cyber-JA/blob/main/w5192j4c_1734362064262_badge.png" alt="ejptv2" width="40" height="40" />
      </p>
   </div>
 </body>
