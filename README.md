@@ -8,13 +8,15 @@
   <div align="left">
     <h2>A little about me.</h3>
   </div>
-  
+</body>
+  ## A little about me!
     ```yaml
     name: Giuseppe
     surname: Caruso
     aka: Cyber-JA
     favourite anime character: Minato Namikaze <!-- clearly! -->
     ```
+<body>
   <div align="left">
     <h2>Connect with me on Linkedin!</h2>
     <p>
