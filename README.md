@@ -5,15 +5,13 @@
   <p align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGkzNTFyb2ZvNnFycDl3b3Y1eWxkeWVsNDBwOHI2ZG1yMjB5ZmkxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MtJwM5N4fuMgw/giphy.webp"/>
   </p>
-</body>
-  ## A little about me!
-    ```yaml
-    name: Giuseppe
-    surname: Caruso
-    aka: Cyber-JA
-    favourite anime character: Minato Namikaze <!-- clearly! -->
+  
+  <div align="left">
+    <h2>A little about me 🔭</h2>
     ```
-<body>
+    ```
+  </div>
+  
   <div align="left">
     <h2>Connect with me on Linkedin!</h2>
     <p>
