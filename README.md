@@ -57,7 +57,7 @@
   <div align="left">
     <h2> Certifications <h2>
      <p>
-       <img src="https://github.com/Cyber-JA/Cyber-JA/blob/main/w5192j4c_1734362064262_badge.png" alt="ejptv2" width="80" height="80" />
+       <img src="https://raw.githubusercontent.com/Cyber-JA/Cyber-JA/refs/heads/main/assets/eJPT-1.webp" alt="ejptv2" width="80" height="80" />
      </p>
   </div>
       
