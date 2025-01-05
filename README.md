@@ -1,10 +1,8 @@
 <body>
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-
-  <div align="left">
+  <div>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+  </div>
+    <div align="left">
     <h3>Connect with me on Linkedin!</h3>
     <p>
       <a href="https://linkedin.com/in/giuseppe-caruso-92177a267" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberja" height="40" width="40" /></a>
