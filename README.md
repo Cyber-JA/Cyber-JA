@@ -10,6 +10,7 @@
     <h2>A little about me 🔭</h2>
   </div>
     
+    ```yaml
     <!-- not gonna disclose too much, cyber paranoic guy here-->
     name: Giuseppe
     aka: Cyber-JA
@@ -32,6 +33,7 @@
       ]
     hobbies: ["anime", "music", "football", "gym"]
     currently_learning: ["cloud environments", "webapp pentesting", "mobile pentesting"]
+    ```
   
   <div align="left">
     <h2>Connect with me on Linkedin!</h2>
