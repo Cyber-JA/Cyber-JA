@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1>𝙷𝚒 👋, Giuseppe (JA on various platforms) here</h1>
+    <h1>𝙷𝚒 👋, Giuseppe here</h1>
     <h3>𝙰 Cybersecurity engineer from 🇮🇹.<h3>
     <h3> Interested in various offensive security topics, looking to be a pentester. </h3>
   </div>
