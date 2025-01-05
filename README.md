@@ -59,9 +59,6 @@
        <img src="https://raw.githubusercontent.com/Cyber-JA/Cyber-JA/refs/heads/main/assets/eJPT-1.webp" alt="ejptv2" width="60" height="80" />
      </p>
   </div>
-      
-![Snake animation](https://github.com/Cyber-JA/Cyber-JA/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **Cyber-JA/Cyber-JA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
