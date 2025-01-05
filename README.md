@@ -10,9 +10,7 @@
     <h2>A little about me 🔭</h2>
   </div>
   
-    ```
     cc
-    ```
   
   <div align="left">
     <h2>Connect with me on Linkedin!</h2>
