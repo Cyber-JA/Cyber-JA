@@ -9,7 +9,8 @@
   <div align="left">
     <h2>A little about me 🔭</h2>
   </div>
-
+    
+    <!-- not gonna disclose too much, cyber paranoic guy here-->
     name: Giuseppe
     aka: Cyber-JA
     favourite_anime_character: Minato Namikaze <!-- Clearly! -->
@@ -21,12 +22,16 @@
         "self-thought penetration tester
       ]
       
-    education:
+    fields_of_interest:
       [
-        "bachelor's degree in Computer Engineering",
-        "master's degree in Cybersecurity",
-        "self-thought penetration tester
+        "penetration testing",
+        "red teaming",
+        "malware development",
+        "reverse engineering",
+        "digital forensics"
       ]
+    hobbies: ["anime", "music", "football", "gym"]
+    currently_learning: ["cloud environments", "webapp pentesting", "mobile pentesting"]
   
   <div align="left">
     <h2>Connect with me on Linkedin!</h2>
