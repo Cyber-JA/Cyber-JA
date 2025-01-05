@@ -1,8 +1,7 @@
 <body>
   <div align="center">
     <h1>𝙷𝚒 👋, Giuseppe here</h1>
-    <h3>𝙰 Cybersecurity engineer from 🇮🇹.<h3>
-    <h3> Interested in various offensive security topics, looking to be a pentester. </h3>
+    <h3>𝙰 Cybersecurity engineer from 🇮🇹 interested in various offensive security topics.<h3>
   </div>
   <div align="left">
     <h3>Connect with me on Linkedin!</h3>
