@@ -1,4 +1,4 @@
-<body>
+
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone,%20Giuseppe%20here!🕹️&animation=fadeIn&theme=dark&color=random&height=100&fontSize=30"/>
   </p>
@@ -58,7 +58,6 @@
        <img src="https://github.com/Cyber-JA/Cyber-JA/blob/main/w5192j4c_1734362064262_badge.png" alt="ejptv2" width="80" height="80" />
      </p>
   </div>
-</body>
 
 <!--
 **Cyber-JA/Cyber-JA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
