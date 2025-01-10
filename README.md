@@ -19,7 +19,7 @@
     [
       "bachelor's degree in Computer Engineering",
       "master's degree in Cybersecurity",
-      "self-thought penetration tester
+      "self-thought penetration tester"
     ]
     
   fields_of_interest:
@@ -31,7 +31,7 @@
       "digital forensics"
     ]
   hobbies: ["anime", "music", "football", "gym"]
-  currently_learning: ["cloud environments", "webapp pentesting", "mobile pentesting"]
+  currently_learning: ["cloud environments", "webapp pentesting", "wifi pentesting"]
   ```
   
   <div align="left">
